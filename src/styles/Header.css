@@ -1,0 +1,78 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700");
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap");
+
+.top-container {
+  /* height: 34px;
+  overflow: hidden; */
+  background: #135a58;
+  color: #ffff !important;
+  line-height: 30px;
+  padding: 2px 0;
+  font-size: 16px;
+}
+
+.top-container .list-inline,
+.top-container .list-inline li {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", Montserrat-Regular;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.top-container a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.top-container a:hover {
+  color: #ffff !important;
+  text-decoration: none;
+}
+.logo {
+  width: 130px;
+}
+.custom-nav {
+  margin-bottom: 0;
+  border-radius: 0px;
+  background-color: #fff;
+  border: none;
+  border-bottom: solid 1px #e0e0e0;
+  z-index: 99;
+}
+
+.navbar-nav a {
+  font-size: 14px;
+  color: #535353 !important;
+  text-transform: uppercase;
+  font-family: "Open Sans", Montserrat-Bold;
+  text-transform: uppercase;
+  font-weight: bold !important;
+}
+.navbar-nav a:hover {
+  color: #38c0bb !important;
+  text-decoration: none;
+}
+.custom-link {
+  padding: 22px 13px;
+}
+.navbar-brand {
+  height: 100% !important;
+}
+
+.navbar-nav .nav-link {
+  font-size: 14px;
+  color: #535353 !important;
+  text-transform: uppercase;
+  padding: 22px 13px !important;
+  font-family: "Open Sans", Montserrat-Bold;
+  text-transform: uppercase;
+  font-weight: bold !important;
+}
+.navbar-nav .nav-link:hover {
+  color: #38c0bb !important;
+}
+
+
